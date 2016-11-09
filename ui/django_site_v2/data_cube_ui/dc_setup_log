@@ -34,7 +34,7 @@ from Venv:
   Using python2(for prepare script):
     pip2 install rasterio==0.35.1
 
-Then, run setup.py in agdc-v2
+  pip install datacube
 
 Database setup:
   set the postgres timezone to utc in postgres.conf
